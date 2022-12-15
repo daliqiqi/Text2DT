@@ -1,0 +1,117 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1098pt" height="310pt" viewBox="0.00 0.00 1098.44 310.4">
+<g id="graph0" class="graph" transform="translate(-201.44840039867972,386.95766387417063) scale(1.0792282365044403)" data-name="G">
+
+<polygon fill="white" stroke="none" points="-4,4 -4,-306.4 1094.44,-306.4 1094.44,4 -4,4"/>
+<!-- 0 -->
+<g id="node1" class="node" pointer-events="visible" data-name="0">
+
+<ellipse fill="none" stroke="black" cx="318.75" cy="-284.4" rx="148.8" ry="18"/>
+<text text-anchor="middle" x="318.75" y="-280.2" font-family="Times,serif" font-size="14.00">组织、策划、实施武装叛乱或者武装暴乱的</text>
+</g>
+<!-- 1 -->
+<g id="node2" class="node" pointer-events="visible" data-name="1">
+
+<ellipse fill="none" stroke="black" cx="165.75" cy="-195.6" rx="97.9" ry="18"/>
+<text text-anchor="middle" x="165.75" y="-191.4" font-family="Times,serif" font-size="14.00">对首要分子或者罪行重大的</text>
+</g>
+<!-- 0&#45;&gt;1 -->
+<g id="edge1" class="edge" data-name="0-&gt;1">
+
+<path fill="none" stroke="black" d="M289.25,-266.66C264.78,-252.78 229.84,-232.96 203.36,-217.94"/>
+<polygon fill="black" stroke="black" points="204.81,-214.73 194.38,-212.84 201.35,-220.82 204.81,-214.73"/>
+<text text-anchor="middle" x="262" y="-235.8" font-family="Times,serif" font-size="14.00">是</text>
+</g>
+<!-- 2 -->
+<g id="node3" class="node" pointer-events="visible" data-name="2">
+
+<ellipse fill="none" stroke="black" cx="318.75" cy="-195.6" rx="36.57" ry="18"/>
+<text text-anchor="middle" x="318.75" y="-191.4" font-family="Times,serif" font-size="14.00">NULL</text>
+</g>
+<!-- 0&#45;&gt;2 -->
+<g id="edge2" class="edge" data-name="0-&gt;2">
+
+<path fill="none" stroke="black" d="M318.75,-266.25C318.75,-254.12 318.75,-237.62 318.75,-223.72"/>
+<polygon fill="black" stroke="black" points="322.25,-223.71 318.75,-213.71 315.25,-223.71 322.25,-223.71"/>
+<text text-anchor="middle" x="324" y="-235.8" font-family="Times,serif" font-size="14.00">否</text>
+</g>
+<!-- 3 -->
+<g id="node4" class="node" pointer-events="visible" data-name="3">
+
+<polygon fill="none" stroke="black" points="173.25,-124.8 0.25,-124.8 0.25,-88.8 173.25,-88.8 173.25,-124.8"/>
+<text text-anchor="middle" x="86.75" y="-102.6" font-family="Times,serif" font-size="14.00">处无期徒刑或者十年以上有期徒刑</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge3" class="edge" data-name="1-&gt;3" data-comment="2-&gt;3">
+
+<path fill="none" stroke="black" d="M150.14,-177.45C138.46,-164.61 122.3,-146.86 109.23,-132.49"/>
+<polygon fill="black" stroke="black" points="111.64,-129.95 102.33,-124.91 106.47,-134.66 111.64,-129.95"/>
+<text text-anchor="middle" x="139" y="-147" font-family="Times,serif" font-size="14.00">是</text>
+</g><g id="edge7" class="edge" data-name="0-&gt;7" data-comment="2-&gt;3">
+
+<path fill="none" stroke="black" d="M389.75,-268.48C459.83,-253.75 567.18,-231.19 642.89,-215.28"/>
+<polygon fill="black" stroke="black" points="643.82,-218.66 652.89,-213.17 642.38,-211.81 643.82,-218.66"/>
+<text text-anchor="middle" x="568" y="-235.8" font-family="Times,serif" font-size="14.00">是</text>
+</g>
+<!-- 4 -->
+<g id="node5" class="node" pointer-events="visible" data-name="4">
+
+<ellipse fill="none" stroke="black" cx="245.75" cy="-106.8" rx="54.49" ry="18"/>
+<text text-anchor="middle" x="245.75" y="-102.6" font-family="Times,serif" font-size="14.00">对积极参加的</text>
+</g>
+<!-- 2&#45;&gt;4 -->
+<g id="edge4" class="edge" data-name="1-&gt;4" data-comment="2-&gt;4">
+
+<path fill="none" stroke="black" d="M181.56,-177.45C193.54,-164.44 210.17,-146.4 223.5,-131.94"/>
+<polygon fill="black" stroke="black" points="226.32,-134.05 230.52,-124.32 221.17,-129.31 226.32,-134.05"/>
+<text text-anchor="middle" x="219" y="-147" font-family="Times,serif" font-size="14.00">否</text>
+</g>
+<!-- 5 -->
+<g id="node6" class="node" pointer-events="visible" data-name="5">
+
+<polygon fill="none" stroke="black" points="235.75,-36 83.75,-36 83.75,0 235.75,0 235.75,-36"/>
+<text text-anchor="middle" x="159.75" y="-13.8" font-family="Times,serif" font-size="14.00">处三年以上十年以下有期徒刑</text>
+</g>
+<!-- 6 -->
+<!-- 6 -->
+<!-- 6 -->
+<g id="node7" class="node" pointer-events="visible" data-name="6">
+
+<polygon fill="none" stroke="black" points="406.75,-36 254.75,-36 254.75,0 406.75,0 406.75,-36"/>
+<text text-anchor="middle" x="330.75" y="-13.8" font-family="Times,serif" font-size="14.00">处三年以上十年以下有期徒刑</text>
+</g><g id="edge5" class="edge" data-name="4-&gt;5" data-comment="6">
+
+<path fill="none" stroke="black" d="M229.57,-89.47C216.73,-76.51 198.57,-58.18 183.99,-43.46"/>
+<polygon fill="black" stroke="black" points="186.26,-40.78 176.74,-36.14 181.29,-45.71 186.26,-40.78"/>
+<text text-anchor="middle" x="216" y="-58.2" font-family="Times,serif" font-size="14.00">是</text>
+</g>
+
+<g id="edge6" class="edge" data-name="4-&gt;6" data-comment="6">
+
+<path fill="none" stroke="black" d="M261.74,-89.47C274.43,-76.51 292.38,-58.18 306.79,-43.46"/>
+<polygon fill="black" stroke="black" points="309.47,-45.74 313.96,-36.14 304.46,-40.84 309.47,-45.74"/>
+<text text-anchor="middle" x="302" y="-58.2" font-family="Times,serif" font-size="14.00">否</text>
+</g>
+<!-- 7 -->
+<!-- 7 -->
+<g id="node8" class="node" pointer-events="visible" data-name="7">
+
+<ellipse fill="none" stroke="black" cx="731.75" cy="-195.6" rx="358.87" ry="18"/>
+<text text-anchor="middle" x="731.75" y="-191.4" font-family="Times,serif" font-size="14.00">策动、胁迫、勾引、收买国家机关工作人员、武装部队人员、人民警察、民兵进行武装叛乱或者武装暴乱的，</text>
+</g>
+
+<!-- 8 -->
+<!-- 8 -->
+<g id="node9" class="node" pointer-events="visible" data-name="8">
+
+<polygon fill="none" stroke="green" points="760.75,-124.8 702.75,-124.8 702.75,-88.8 760.75,-88.8 760.75,-124.8"/>
+<text text-anchor="middle" x="731.75" y="-102.6" font-family="Times,serif" font-size="14.00">从重处理</text>
+</g>
+<g id="edge8" class="edge" data-name="7-&gt;8" data-comment="8">
+
+<path fill="none" stroke="black" d="M731.75,-177.45C731.75,-165.32 731.75,-148.82 731.75,-134.92"/>
+<polygon fill="black" stroke="black" points="735.25,-134.91 731.75,-124.91 728.25,-134.91 735.25,-134.91"/>
+<text text-anchor="middle" x="737" y="-147" font-family="Times,serif" font-size="14.00" style="">是</text>
+</g>
+</g>
+</svg>
